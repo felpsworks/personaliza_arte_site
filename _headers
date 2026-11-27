@@ -1,0 +1,6 @@
+# CSS/JS têm versão no endereço (?v=1): ao mudar o arquivo, aumente a versão nas páginas
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/img/*
+  Cache-Control: public, max-age=2592000

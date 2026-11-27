@@ -1,10 +1,10 @@
-# Página usada nos anúncios do Google Ads: mostra a home sem mudar o endereço
-# (mantém o gclid e o rastreamento de conversões)
-/copos/natal  /  200
-/copos/natal/ /  200
+# Página usada nos anúncios do Google Ads: mostra a página de copos personalizados
+# sem mudar o endereço (mantém o gclid e o rastreamento de conversões)
+/copos/natal   /copos-personalizados/  200
+/copos/natal/  /copos-personalizados/  200
 
 # Endereços da loja antiga que ainda aparecem no Google
-/tags-mes-versario                  /  301
+/tags-mes-versario                       /  301
 /placa-decorativa-cantinho-do-churrasco  /  301
-/trofeu-acrilico-preto-e-dourado    /  301
-/favicon.ico                        /favicon.svg  301
+/trofeu-acrilico-preto-e-dourado         /  301
+/favicon.ico                             /favicon.svg  301
