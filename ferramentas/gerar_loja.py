@@ -168,8 +168,8 @@ cat_sections.append(f'''  <section class="band shop" id="gravacao-laser">
 home = BANNER + f'''  <section class="shop-intro">
     <div class="in">
       <div>
-        <h1>Copos, garrafas, canetas e cadernos personalizados</h1>
-        <p>Escolha o modelo, a cor e a quantidade. Gravamos a laser o nome, a logo ou a frase que você quiser, a partir de 1 unidade.</p>
+        <h1>Brindes e presentes personalizados a laser em Hortolândia</h1>
+        <p>Copos térmicos, garrafas, taças, canetas e kits churrasco com nome, logo ou frase. Retirada em Hortolândia ou envio para Indaiatuba, Campinas e região.</p>
       </div>
     </div>
   </section>
