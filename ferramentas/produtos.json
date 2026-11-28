@@ -1,0 +1,998 @@
+{
+  "cores_padrao": [
+    [
+      "Azul",
+      "#1f3f9a"
+    ],
+    [
+      "Preto",
+      "#1d1e20"
+    ],
+    [
+      "Branco",
+      "#ffffff"
+    ],
+    [
+      "Pink",
+      "#e8318a"
+    ],
+    [
+      "Cinza",
+      "#6b6e72"
+    ],
+    [
+      "Verde",
+      "#4b7a2e"
+    ],
+    [
+      "Vermelho",
+      "#e0262b"
+    ]
+  ],
+  "categorias": [
+    {
+      "id": "termicos",
+      "nome": "Térmicos",
+      "descricao": "Copos, canecas e garrafas de inox que mantêm a bebida na temperatura certa, com gravação a laser permanente.",
+      "subcategorias": [
+        {
+          "id": "copos-termicos",
+          "nome": "Copos Térmicos",
+          "produtos": [
+            {
+              "codigo": "PA-CT01",
+              "slug": "copo-termico-com-abridor",
+              "nome": "Copo Térmico com Abridor 473 ml",
+              "resumo": "Copo de inox com tampa que vira abridor de garrafa. O mais pedido para presente e para times.",
+              "descricao": "O copo térmico mais pedido da PersonalizaArte. Corpo de inox com acabamento colorido, 473 ml e tampa com abridor de garrafa embutido. Gravamos a laser o nome, a inicial, o escudo do time ou a logo da empresa em volta do copo.",
+              "destaques": [
+                "Capacidade de 473 ml",
+                "Tampa com abridor de garrafa",
+                "Corpo de inox com acabamento colorido"
+              ],
+              "cores": [
+                [
+                  "Pink",
+                  "#e0336f"
+                ],
+                [
+                  "Rosa",
+                  "#f08aa5"
+                ],
+                [
+                  "Preto",
+                  "#1d1e20"
+                ],
+                [
+                  "Azul",
+                  "#2350b5"
+                ],
+                [
+                  "Azul-marinho",
+                  "#1f2a4d"
+                ],
+                [
+                  "Verde-musgo",
+                  "#4f5a2e"
+                ],
+                [
+                  "Laranja",
+                  "#e5571f"
+                ],
+                [
+                  "Rosé",
+                  "#b08070"
+                ],
+                [
+                  "Vermelho",
+                  "#d8292a"
+                ]
+              ],
+              "foto": "pa-ct01",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox com acabamento colorido"
+                ],
+                [
+                  "Capacidade",
+                  "473 ml"
+                ],
+                [
+                  "Tampa",
+                  "Com abridor de garrafa embutido"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CT02",
+              "slug": "copo-termico-taca",
+              "nome": "Copo Térmico Taça",
+              "resumo": "Copo térmico em formato de taça, sem haste e com tampa. Ótimo para vinho, drinks e café.",
+              "descricao": "Copo térmico de inox em formato de taça, sem haste, com tampa e abertura para beber. Fica lindo com nome, monograma ou frase gravados a laser e é um presente que a pessoa usa todo dia.",
+              "destaques": [
+                "Formato de taça, sem haste",
+                "Tampa com abertura para beber",
+                "Corpo de inox com acabamento colorido"
+              ],
+              "cores": [
+                [
+                  "Roxo",
+                  "#5b2c8f"
+                ],
+                [
+                  "Pink",
+                  "#e2367f"
+                ],
+                [
+                  "Azul-turquesa",
+                  "#3ec4c8"
+                ],
+                [
+                  "Rosé",
+                  "#a8606a"
+                ],
+                [
+                  "Rosa",
+                  "#f29bb5"
+                ],
+                [
+                  "Azul-marinho",
+                  "#1f2747"
+                ],
+                [
+                  "Azul",
+                  "#2346a8"
+                ],
+                [
+                  "Branco",
+                  "#ffffff"
+                ],
+                [
+                  "Preto",
+                  "#1d1e20"
+                ]
+              ],
+              "foto": "pa-ct02",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox com acabamento colorido"
+                ],
+                [
+                  "Formato",
+                  "Taça sem haste"
+                ],
+                [
+                  "Tampa",
+                  "Com abertura para beber"
+                ]
+              ]
+            }
+          ],
+          "ideal": [
+            "Presentes",
+            "Aniversários",
+            "Formaturas",
+            "Times e torcidas",
+            "Brindes corporativos"
+          ]
+        },
+        {
+          "id": "canecas",
+          "nome": "Canecas",
+          "produtos": [
+            {
+              "codigo": "PA-CN01",
+              "slug": "caneca-termica-com-tampa",
+              "nome": "Caneca Térmica com Tampa",
+              "resumo": "Caneca de inox com alça e tampa transparente. Ideal para o café do escritório e brindes de empresa.",
+              "descricao": "Caneca térmica de inox com alça e tampa transparente. Perfeita para o café do dia a dia, para a mesa do escritório e para brindes de empresa com a logo gravada a laser.",
+              "destaques": [
+                "Tampa transparente",
+                "Alça confortável",
+                "Borda de inox"
+              ],
+              "cores": "padrao",
+              "foto": "pa-cn01",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox"
+                ],
+                [
+                  "Tampa",
+                  "Transparente"
+                ],
+                [
+                  "Alça",
+                  "Sim, confortável"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CN02",
+              "slug": "caneca-termica-de-chopp",
+              "nome": "Caneca Térmica de Chopp",
+              "resumo": "Caneca térmica para chopp e cerveja, com borda de inox e alça reforçada.",
+              "descricao": "Caneca térmica para chopp e cerveja, com borda de inox e alça reforçada. Presente certeiro para quem curte uma cerveja gelada, com nome, apelido ou escudo do time gravado a laser.",
+              "destaques": [
+                "Formato de caneca de chopp",
+                "Alça reforçada",
+                "Borda de inox"
+              ],
+              "cores": "padrao",
+              "foto": "pa-cn02",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox"
+                ],
+                [
+                  "Formato",
+                  "Caneca de chopp com borda de inox"
+                ],
+                [
+                  "Alça",
+                  "Reforçada"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CN03",
+              "slug": "caneca-termica-1-2l-tampa-canudo-inox",
+              "nome": "Caneca Térmica 1,2 L com Tampa e Canudo Inox",
+              "resumo": "Caneca térmica de inox com 1,2 litro, alça, tampa e canudo de inox. Ideal para a garrafa d'água do dia todo.",
+              "descricao": "Caneca térmica de inox com capacidade de 1,2 litro, alça lateral, tampa e canudo de inox. Acompanha o dia inteiro no trabalho, na academia e no carro, e fica linda com nome, monograma ou logo gravados a laser.",
+              "destaques": [
+                "Capacidade de 1,2 litro",
+                "Corpo de inox com alça",
+                "Tampa e canudo de inox"
+              ],
+              "cores": [
+                [
+                  "Preto",
+                  "#1d1e20"
+                ],
+                [
+                  "Azul",
+                  "#1f3f9a"
+                ],
+                [
+                  "Branco",
+                  "#ffffff"
+                ],
+                [
+                  "Pink",
+                  "#e8318a"
+                ],
+                [
+                  "Cinza",
+                  "#6b6e72"
+                ],
+                [
+                  "Verde",
+                  "#4b7a2e"
+                ],
+                [
+                  "Vermelho",
+                  "#e0262b"
+                ]
+              ],
+              "foto": "pa-cn03",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox"
+                ],
+                [
+                  "Capacidade",
+                  "1,2 litro"
+                ],
+                [
+                  "Acompanha",
+                  "Tampa e canudo de inox"
+                ],
+                [
+                  "Alça",
+                  "Lateral"
+                ]
+              ]
+            }
+          ],
+          "ideal": [
+            "Café do dia a dia",
+            "Escritório",
+            "Presentes",
+            "Brindes corporativos"
+          ]
+        },
+        {
+          "id": "garrafas",
+          "nome": "Garrafas",
+          "produtos": [
+            {
+              "codigo": "PA-GR01",
+              "slug": "garrafa-termica-display-temperatura",
+              "nome": "Garrafa Térmica com Display de Temperatura",
+              "resumo": "Garrafa de inox com tampa que mostra a temperatura da bebida no display.",
+              "descricao": "Garrafa térmica de inox com tampa inteligente: o display mostra a temperatura da bebida. Elegante para presentear e muito pedida como brinde corporativo com a logo gravada a laser.",
+              "destaques": [
+                "Tampa com display de temperatura",
+                "Corpo de inox",
+                "Visual elegante e discreto"
+              ],
+              "cores": "padrao",
+              "foto": "pa-gr01",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox"
+                ],
+                [
+                  "Tampa",
+                  "Com display de temperatura da bebida"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-GR02",
+              "slug": "garrafa-termica-inox-classica",
+              "nome": "Garrafa Térmica Inox Clássica",
+              "resumo": "Garrafa térmica no formato clássico, com tampa de rosca em inox.",
+              "descricao": "Garrafa térmica de inox no formato clássico, com tampa de rosca em inox. Cabe na bolsa e na mochila e fica ótima com nome ou logo gravados a laser.",
+              "destaques": [
+                "Formato clássico",
+                "Tampa de rosca em inox",
+                "Corpo de inox com acabamento colorido"
+              ],
+              "cores": "padrao",
+              "foto": "pa-gr02",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox com acabamento colorido"
+                ],
+                [
+                  "Formato",
+                  "Clássico"
+                ],
+                [
+                  "Tampa",
+                  "De rosca em inox"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-GR03",
+              "slug": "garrafa-termica-esportiva-com-alca",
+              "nome": "Garrafa Térmica Esportiva com Alça",
+              "resumo": "Garrafa térmica com tampa de rosca e alça para carregar. Boa para academia, trabalho e viagem.",
+              "descricao": "Garrafa térmica de inox com tampa de rosca e alça para carregar. Acompanha na academia, no trabalho e na viagem, com nome, frase ou logo gravados a laser.",
+              "destaques": [
+                "Tampa com alça para carregar",
+                "Tampa de rosca",
+                "Corpo de inox com acabamento colorido"
+              ],
+              "cores": "padrao",
+              "foto": "pa-gr03",
+              "specs": [
+                [
+                  "Material",
+                  "Aço inox com acabamento colorido"
+                ],
+                [
+                  "Tampa",
+                  "De rosca, com alça para carregar"
+                ]
+              ]
+            }
+          ],
+          "ideal": [
+            "Academia",
+            "Trabalho",
+            "Viagem",
+            "Brindes corporativos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tacas",
+      "nome": "Taças",
+      "descricao": "Taças de vidro personalizadas com gravação a laser.",
+      "subcategorias": [
+        {
+          "id": "tacas",
+          "nome": "Taças",
+          "material": "Vidro",
+          "produtos": [
+            {
+              "codigo": "PA-TA01",
+              "slug": "taca-sm-buffet-elegante-vinho-260ml",
+              "nome": "Taça Sm Buffet Elegante Vinho 260 ml",
+              "resumo": "Taça de vidro para vinho, com 260 ml e haste elegante. Linda com nome ou brasão gravado.",
+              "descricao": "Taça de vidro para vinho com 260 ml, modelo Sm Buffet Elegante. A gravação a laser deixa o nome, o brasão ou a logo com acabamento fosco e delicado no vidro. Ideal para presentes, casamentos, padrinhos e eventos.",
+              "destaques": [
+                "Material: vidro",
+                "Capacidade de 260 ml",
+                "Taça com haste, para vinho"
+              ],
+              "cores": [
+                [
+                  "Transparente",
+                  "#e9eef1"
+                ]
+              ],
+              "foto": "pa-ta01",
+              "specs": [
+                [
+                  "Material",
+                  "Vidro"
+                ],
+                [
+                  "Capacidade",
+                  "260 ml"
+                ],
+                [
+                  "Modelo",
+                  "Sm Buffet Elegante, com haste"
+                ],
+                [
+                  "Acabamento da gravação",
+                  "Fosco no vidro"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-TA02",
+              "slug": "taca-floripa-cerveja-300ml",
+              "nome": "Taça Floripa Cerveja 300 ml",
+              "resumo": "Taça de vidro para cerveja, com 300 ml. Ótima com nome ou logo de cervejaria gravados.",
+              "descricao": "Taça de vidro para cerveja com 300 ml, modelo Floripa. A gravação a laser deixa o nome ou a logo com acabamento fosco no vidro. Presente certeiro para quem curte cerveja artesanal e ótima para bares, cervejarias e eventos.",
+              "destaques": [
+                "Material: vidro",
+                "Capacidade de 300 ml",
+                "Taça com pé, para cerveja"
+              ],
+              "cores": [
+                [
+                  "Transparente",
+                  "#e9eef1"
+                ]
+              ],
+              "foto": "pa-ta02",
+              "specs": [
+                [
+                  "Material",
+                  "Vidro"
+                ],
+                [
+                  "Capacidade",
+                  "300 ml"
+                ],
+                [
+                  "Modelo",
+                  "Floripa, com pé"
+                ],
+                [
+                  "Acabamento da gravação",
+                  "Fosco no vidro"
+                ]
+              ]
+            }
+          ],
+          "minimo": 10,
+          "ideal": [
+            "Casamentos",
+            "Padrinhos",
+            "Eventos",
+            "Bares e cervejarias"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "escritorio",
+      "nome": "Escritório",
+      "descricao": "Canetas e cadernos personalizados com a logo da empresa ou o nome, para escritório, eventos e kits corporativos.",
+      "subcategorias": [
+        {
+          "id": "canetas",
+          "nome": "Canetas",
+          "produtos": [
+            {
+              "codigo": "PA-CA01",
+              "slug": "caneta-metalica",
+              "nome": "Caneta Metálica",
+              "resumo": "Caneta de corpo metálico com clipe e detalhes cromados. Clássica para brindes de empresa e eventos.",
+              "descricao": "Caneta de corpo metálico com clipe e detalhes cromados. Um brinde clássico para empresas, eventos e escritórios, com a logo ou o nome gravados a laser no corpo da caneta.",
+              "destaques": [
+                "Corpo metálico",
+                "Clipe e detalhes cromados",
+                "12 cores"
+              ],
+              "cores": [
+                [
+                  "Azul",
+                  "#1f4fd1"
+                ],
+                [
+                  "Branco",
+                  "#ffffff"
+                ],
+                [
+                  "Grafite",
+                  "#4a4d52"
+                ],
+                [
+                  "Prata",
+                  "#b9bcc0"
+                ],
+                [
+                  "Dourado",
+                  "#b58a2e"
+                ],
+                [
+                  "Champanhe",
+                  "#a8956e"
+                ],
+                [
+                  "Laranja",
+                  "#f06a12"
+                ],
+                [
+                  "Rosa",
+                  "#c98bc9"
+                ],
+                [
+                  "Roxo",
+                  "#5a1fa8"
+                ],
+                [
+                  "Verde",
+                  "#1f5a2e"
+                ],
+                [
+                  "Vermelho",
+                  "#c8202e"
+                ],
+                [
+                  "Preto",
+                  "#1d1e20"
+                ]
+              ],
+              "foto": "pa-ca01",
+              "specs": [
+                [
+                  "Material",
+                  "Metal"
+                ],
+                [
+                  "Detalhes",
+                  "Clipe e detalhes cromados"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CA02",
+              "slug": "caneta-metalica-ponteira-touch",
+              "nome": "Caneta Metálica com Ponteira Touch",
+              "resumo": "Caneta metálica com ponteira touch para usar na tela do celular e do tablet.",
+              "descricao": "Caneta metálica com ponteira touch na parte de cima, que funciona na tela do celular e do tablet. Elegante para brindes corporativos, com a logo gravada a laser.",
+              "destaques": [
+                "Ponteira touch para celular e tablet",
+                "Corpo metálico",
+                "Clipe cromado"
+              ],
+              "cores": [
+                [
+                  "Prata",
+                  "#d9dadc"
+                ],
+                [
+                  "Dourado",
+                  "#d8c08a"
+                ],
+                [
+                  "Verde",
+                  "#5aa02c"
+                ],
+                [
+                  "Preto",
+                  "#1d1e20"
+                ],
+                [
+                  "Azul",
+                  "#2a3fc4"
+                ],
+                [
+                  "Lilás",
+                  "#b4b4e0"
+                ],
+                [
+                  "Vermelho",
+                  "#b0202e"
+                ],
+                [
+                  "Laranja",
+                  "#e08a1a"
+                ]
+              ],
+              "foto": "pa-ca02",
+              "specs": [
+                [
+                  "Material",
+                  "Metal"
+                ],
+                [
+                  "Detalhes",
+                  "Ponteira touch para celular e tablet, clipe cromado"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CA03",
+              "slug": "caneta-ecologica-kraft",
+              "nome": "Caneta Ecológica Kraft",
+              "resumo": "Caneta de papelão kraft com detalhes coloridos. Sustentável e econômica para brindes em quantidade.",
+              "descricao": "Caneta com corpo de papelão kraft e clipe e ponta coloridos. Uma opção sustentável e econômica para brindes em quantidade, com a logo ou o nome gravados a laser.",
+              "destaques": [
+                "Corpo de papelão kraft",
+                "Clipe e ponta coloridos",
+                "Visual sustentável"
+              ],
+              "cores": [
+                [
+                  "Vermelho",
+                  "#b01e2e"
+                ],
+                [
+                  "Laranja",
+                  "#f07a10"
+                ],
+                [
+                  "Verde",
+                  "#1e6b35"
+                ],
+                [
+                  "Azul",
+                  "#1f3fa8"
+                ],
+                [
+                  "Preto",
+                  "#1d1e20"
+                ]
+              ],
+              "foto": "pa-ca03",
+              "specs": [
+                [
+                  "Material",
+                  "Papelão kraft (ecológica)"
+                ],
+                [
+                  "Detalhes",
+                  "Clipe e ponta coloridos"
+                ]
+              ]
+            }
+          ],
+          "minimo": 10,
+          "ideal": [
+            "Brindes corporativos",
+            "Eventos e congressos",
+            "Kits de boas-vindas"
+          ]
+        },
+        {
+          "id": "cadernos",
+          "nome": "Cadernos",
+          "produtos": [
+            {
+              "codigo": "PA-CD01",
+              "slug": "caderno-kraft-post-it-regua-caneta",
+              "nome": "Caderno Kraft com Post-it, Régua e Caneta",
+              "resumo": "Caderno de capa kraft com post-its coloridos, régua e caneta ecológica.",
+              "descricao": "Caderno de capa kraft com espiral, blocos adesivos coloridos (post-it), régua e caneta ecológica. Prático para escritório, escola e kits corporativos, com a logo ou o nome gravados a laser na capa.",
+              "destaques": [
+                "Capa kraft com espiral",
+                "Post-its coloridos e régua",
+                "Acompanha caneta ecológica"
+              ],
+              "cores": [
+                [
+                  "Kraft",
+                  "#b8885a"
+                ]
+              ],
+              "foto": "pa-cd01",
+              "specs": [
+                [
+                  "Capa",
+                  "Kraft com espiral"
+                ],
+                [
+                  "Acompanha",
+                  "Post-its coloridos, régua e caneta ecológica"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CD02",
+              "slug": "caderno-kraft-com-caneta",
+              "nome": "Caderno Kraft com Caneta",
+              "resumo": "Caderno de capa kraft com detalhe colorido e caneta ecológica presa no elástico.",
+              "descricao": "Caderno de capa kraft com espiral, detalhe colorido na capa e caneta ecológica presa no elástico. Ótimo para kits de boas-vindas e eventos, com a logo gravada a laser na capa.",
+              "destaques": [
+                "Capa kraft com espiral",
+                "Detalhe colorido na capa",
+                "Caneta ecológica presa no elástico"
+              ],
+              "cores": [
+                [
+                  "Kraft e azul",
+                  "#2a2f7a"
+                ]
+              ],
+              "foto": "pa-cd02",
+              "specs": [
+                [
+                  "Capa",
+                  "Kraft com espiral e detalhe colorido"
+                ],
+                [
+                  "Acompanha",
+                  "Caneta ecológica presa no elástico"
+                ]
+              ]
+            }
+          ],
+          "minimo": 5,
+          "ideal": [
+            "Kits corporativos",
+            "Escola",
+            "Eventos",
+            "Boas-vindas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chaveiros-mdf",
+      "nome": "Chaveiros",
+      "descricao": "Chaveiros de MDF personalizados com gravação a laser.",
+      "subcategorias": [
+        {
+          "id": "chaveiros",
+          "nome": "Chaveiros",
+          "produtos": [
+            {
+              "codigo": "PA-CH01",
+              "slug": "chaveiro-mdf-cru",
+              "nome": "Chaveiro em MDF Cru",
+              "resumo": "Chaveiro redondo de MDF cru com 5 cm, gravado com logo, frase ou telefone.",
+              "descricao": "Chaveiro personalizado em MDF cru, versátil e criativo, que pode ser desenvolvido em diferentes formatos e temas. Ideal para datas comemorativas como Dia das Mães, Dia dos Pais, Dia dos Namorados, aniversários, brindes corporativos e outras ocasiões especiais, sendo uma lembrança única e marcante.",
+              "destaques": [
+                "Diâmetro de 5 cm",
+                "MDF cru com argola e corrente",
+                "Gravação de logo, frases ou telefone de contato"
+              ],
+              "cores": [
+                [
+                  "MDF cru",
+                  "#c39a6b"
+                ]
+              ],
+              "foto": "pa-ch01",
+              "specs": [
+                [
+                  "Material",
+                  "MDF cru"
+                ],
+                [
+                  "Medida",
+                  "5 cm de diâmetro"
+                ],
+                [
+                  "Acompanha",
+                  "Argola e corrente"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CH02",
+              "slug": "chaveiro-mdf-branco",
+              "nome": "Chaveiro em MDF Branco",
+              "resumo": "Chaveiro redondo de MDF branco com 5 cm, gravado com logo, frase ou telefone.",
+              "descricao": "Chaveiro personalizado em MDF branco, versátil e criativo, que pode ser desenvolvido em diferentes formatos e temas. Ideal para datas comemorativas como Dia das Mães, Dia dos Pais, Dia dos Namorados, aniversários, brindes corporativos e outras ocasiões especiais, sendo uma lembrança única e marcante.",
+              "destaques": [
+                "Diâmetro de 5 cm",
+                "MDF branco com argola",
+                "Gravação de logo, frases ou telefone de contato"
+              ],
+              "cores": [
+                [
+                  "Branco",
+                  "#ffffff"
+                ]
+              ],
+              "foto": "pa-ch02",
+              "specs": [
+                [
+                  "Material",
+                  "MDF branco"
+                ],
+                [
+                  "Medida",
+                  "5 cm de diâmetro"
+                ],
+                [
+                  "Acompanha",
+                  "Argola"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-CH03",
+              "slug": "chaveiro-abridor-de-garrafa",
+              "nome": "Chaveiro Abridor de Garrafa",
+              "resumo": "Chaveiro metálico que também é abridor de garrafa. Brinde útil para bares, eventos e empresas.",
+              "descricao": "Chaveiro metálico com abridor de garrafa embutido e argola. Um brinde útil que a pessoa leva no chaveiro todos os dias, ótimo para bares, cervejarias, eventos e empresas, com a logo ou o nome gravados a laser.",
+              "destaques": [
+                "Abridor de garrafa embutido",
+                "Corpo metálico com argola",
+                "Gravação de logo, nome ou frase"
+              ],
+              "cores": [
+                [
+                  "Preto",
+                  "#1d1e20"
+                ]
+              ],
+              "foto": "pa-ch03",
+              "specs": [
+                [
+                  "Material",
+                  "Metal"
+                ],
+                [
+                  "Detalhes",
+                  "Abridor de garrafa embutido"
+                ],
+                [
+                  "Acompanha",
+                  "Argola"
+                ]
+              ]
+            }
+          ],
+          "minimo": 20,
+          "ideal": [
+            "Datas comemorativas",
+            "Lembrancinhas",
+            "Eventos",
+            "Brindes corporativos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kit-churrasco",
+      "nome": "Kit Churrasco",
+      "descricao": "Kits de churrasco personalizados com gravação a laser.",
+      "subcategorias": [
+        {
+          "id": "kit-churrasco",
+          "nome": "Kit Churrasco",
+          "produtos": [
+            {
+              "codigo": "PA-KC01",
+              "slug": "kit-churrasco-tabua-faca-garfo-pinca-estojo",
+              "nome": "Kit Churrasco com Tábua, Faca, Garfo, Pinça e Estojo",
+              "resumo": "Kit com tábua de madeira, faca, garfo e pinça com cabo de madeira e estojo. Presente certeiro para o churrasqueiro.",
+              "descricao": "Kit churrasco completo com tábua de madeira, faca, garfo e pinça com cabo de madeira, guardados em um estojo com zíper. Um presente certeiro para o Dia dos Pais, aniversários, padrinhos e brindes corporativos, com o nome, a frase ou a logo gravados a laser na tábua e nos cabos.",
+              "destaques": [
+                "Tábua de madeira com canaleta",
+                "Faca, garfo e pinça com cabo de madeira",
+                "Estojo com zíper para guardar"
+              ],
+              "cores": [
+                [
+                  "Madeira",
+                  "#c9965f"
+                ]
+              ],
+              "foto": "pa-kc01",
+              "specs": [
+                [
+                  "Itens",
+                  "Tábua, faca, garfo e pinça"
+                ],
+                [
+                  "Material",
+                  "Tábua e cabos de madeira"
+                ],
+                [
+                  "Acompanha",
+                  "Estojo com zíper"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-KC02",
+              "slug": "kit-churrasco-personalizado-3-pecas",
+              "nome": "Kit Churrasco Personalizado 3 Peças",
+              "resumo": "Kit com pinça, garfo e faca de inox com cabo de madeira, em estojo com zíper. Gravação na lâmina.",
+              "descricao": "Kit churrasco com 3 peças: pinça, garfo e faca de inox com cabo de madeira, presos por elásticos em um estojo com zíper e alça. A gravação a laser vai direto no inox da lâmina e do garfo, com nome, frase ou logo. Ideal para Dia dos Pais, aniversários, padrinhos e brindes corporativos.",
+              "destaques": [
+                "3 peças: pinça, garfo e faca",
+                "Inox com cabo de madeira",
+                "Estojo com zíper e alça"
+              ],
+              "cores": [
+                [
+                  "Madeira",
+                  "#c9965f"
+                ]
+              ],
+              "foto": "pa-kc02",
+              "specs": [
+                [
+                  "Itens",
+                  "3 peças: pinça, garfo e faca"
+                ],
+                [
+                  "Material",
+                  "Inox com cabo de madeira"
+                ],
+                [
+                  "Acompanha",
+                  "Estojo com zíper e alça"
+                ]
+              ]
+            },
+            {
+              "codigo": "PA-KC03",
+              "slug": "kit-churrasco-9-itens-com-estojo",
+              "nome": "Kit Churrasco 9 Itens com Estojo",
+              "resumo": "Conjunto completo com 9 itens de inox e cabo de madeira, organizados em estojo com zíper.",
+              "descricao": "Conjunto para churrasco com 9 itens de inox e cabo de madeira: pinça, espátula, chaira, garfo, faca e 4 espetinhos para milho, organizados em um estojo com zíper. O kit mais completo para quem é o assador da família, com nome, frase ou logo gravados a laser.",
+              "destaques": [
+                "9 itens: pinça, espátula, chaira, garfo, faca e 4 espetinhos para milho",
+                "Inox com cabo de madeira",
+                "Estojo com zíper"
+              ],
+              "cores": [
+                [
+                  "Madeira",
+                  "#c9965f"
+                ]
+              ],
+              "foto": "pa-kc03",
+              "specs": [
+                [
+                  "Itens",
+                  "9: pinça, espátula, chaira, garfo, faca e 4 espetinhos para milho"
+                ],
+                [
+                  "Material",
+                  "Inox com cabo de madeira"
+                ],
+                [
+                  "Acompanha",
+                  "Estojo com zíper"
+                ]
+              ]
+            }
+          ],
+          "ideal": [
+            "Dia dos Pais",
+            "Padrinhos",
+            "Aniversários",
+            "Brindes corporativos"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,6 +16,17 @@ Uma página real por assunto, cada uma com título, descrição e H1 próprios:
 | `/sobre/` | `sobre/index.html` |
 | `/orcamento/` | `orcamento/index.html` |
 
+### Loja (catálogo, páginas de produto e carrinho)
+
+- A home (`index.html`) é o catálogo: categoria **Térmicos** com Copos Térmicos, Canecas e Garrafas.
+- Cada produto tem página própria em `/produtos/<slug>/`.
+- O carrinho (`assets/loja.js` e `assets/loja.css`) fica salvo no navegador do cliente e fecha o pedido pelo WhatsApp com código, cor e quantidade de cada item.
+- **Para adicionar ou mudar produtos:**
+  1. edite `ferramentas/produtos.json` (código, nome, textos, cores);
+  2. coloque a foto em `img/produtos/<codigo>-400.webp` e `-800.webp` (quadrada, fundo branco);
+  3. rode `python ferramentas/gerar_loja.py` na raiz do site, que regenera a home, as páginas de produto e o `sitemap.xml`.
+- Códigos: `PA-CT` copos térmicos, `PA-CN` canecas, `PA-GR` garrafas.
+
 - `assets/site.css` e `assets/site.js`: estilo e scripts compartilhados por todas as páginas. Ao alterar um deles, aumente o `?v=` no link das páginas (o arquivo fica em cache por 1 ano, veja `_headers`).
 - Cabeçalho, rodapé e bloco de contato se repetem em cada página: ao mudar um deles, mude em todas.
 - `img/`: fotos usadas no site
